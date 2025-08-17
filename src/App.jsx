@@ -39,7 +39,7 @@ const LandingPage = ({ showWelcome, setShowWelcome }) => {
                 <a href="https://www.linkedin.com/in/yash-verma-46b95b238" className="hover:underline" target="_blank" rel="noopener noreferrer">
                   Yousef Magdy™
                 </a>
-                . All Rights Reserved.
+                . asjsj
               </span>
             </center>
           </footer>
