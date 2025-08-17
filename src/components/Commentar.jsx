@@ -457,3 +457,4 @@ const Komentar = () => {
 };
 
 export default Komentar;
+// Trigger Vercel deploy
