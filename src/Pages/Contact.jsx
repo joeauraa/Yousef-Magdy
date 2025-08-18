@@ -40,7 +40,7 @@ const ContactPage = () => {
     });
 
     try {
-const formSubmitUrl = "https://formsubmit.co/yousefmagdyhassann@gmail.com";
+<form action="https://formsubmit.co/yousefmagdyhassann@gmail.com" method="POST" />
 
 
       const submitData = new FormData();
