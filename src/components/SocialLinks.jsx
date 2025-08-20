@@ -24,7 +24,11 @@ const socialLinks = [
   },
   {
     name: "Instagram",
+<<<<<<< HEAD
     displayName: "",
+=======
+    displayName: "Insta",
+>>>>>>> 4ad5648a893a007f9ea34e619bc11f580165439c
     subText: "",
     icon: Instagram,
     url: "https://www.instagram.com/joeauraa/",
@@ -33,7 +37,11 @@ const socialLinks = [
   },
   {
     name: "Facebook",
+<<<<<<< HEAD
     displayName: "",
+=======
+    displayName: "Face",
+>>>>>>> 4ad5648a893a007f9ea34e619bc11f580165439c
     subText: "",
     icon: Facebook,
     
@@ -43,7 +51,11 @@ const socialLinks = [
   },
   {
     name: "GitHub",
+<<<<<<< HEAD
     displayName: "",
+=======
+    displayName: "Github",
+>>>>>>> 4ad5648a893a007f9ea34e619bc11f580165439c
     subText: "",
     icon: Github,
     url: "https://github.com",
