@@ -78,13 +78,13 @@ const techStacks = [
   { icon: "javascript.svg", language: "JavaScript" },
   { icon: "tailwind.svg", language: "Tailwind CSS" },
   { icon: "reactjs.svg", language: "ReactJS" },
-  { icon: "Figma.png", language: "Figma" },
   { icon: "nodejs.svg", language: "Node JS" },
-  { icon: "bootstrap.svg", language: "Bootstrap" },
-  { icon: "firebase.svg", language: "Firebase" },
-  { icon: "MUI.svg", language: "Material UI" },
-  { icon: "vercel.svg", language: "Vercel" },
   { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "firebase.svg", language: "Firebase" },
+  { icon: "vercel.svg", language: "Vercel" },
+  { icon: "python-svgrepo-com", language: "Python" },
+  { icon: "flutter-svgrepo-com", language: "Flutter" },
+  { icon: "sql-svgrepo-com.svg", language: "SQL" },
 ];
 
 export default function FullWidthTabs() {
