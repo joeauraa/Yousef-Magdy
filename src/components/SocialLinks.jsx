@@ -1,4 +1,3 @@
-
 import { useEffect } from "react";
 import {
   Linkedin,
@@ -17,18 +16,14 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/yash-verma-46b95b238",
+    url: "",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true,
   },
   {
     name: "Instagram",
-<<<<<<< HEAD
     displayName: "",
-=======
-    displayName: "Insta",
->>>>>>> 4ad5648a893a007f9ea34e619bc11f580165439c
     subText: "",
     icon: Instagram,
     url: "https://www.instagram.com/joeauraa/",
@@ -37,25 +32,16 @@ const socialLinks = [
   },
   {
     name: "Facebook",
-<<<<<<< HEAD
     displayName: "",
-=======
-    displayName: "Face",
->>>>>>> 4ad5648a893a007f9ea34e619bc11f580165439c
     subText: "",
     icon: Facebook,
-    
     url: "https://facebook.com/joeauraa/",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
   {
     name: "GitHub",
-<<<<<<< HEAD
-    displayName: "",
-=======
     displayName: "Github",
->>>>>>> 4ad5648a893a007f9ea34e619bc11f580165439c
     subText: "",
     icon: Github,
     url: "https://github.com",
