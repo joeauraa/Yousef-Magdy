@@ -79,7 +79,7 @@ const techStacks = [
   { icon: "tailwind.svg", language: "Tailwind CSS" },
   { icon: "reactjs.svg", language: "ReactJS" },
   { icon: "nodejs.svg", language: "Node JS" },
-  { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "kalilinux-svgrepo-com.svg", language: "Cybersecurity" },
   { icon: "firebase.svg", language: "Firebase" },
   { icon: "isocpp-ar21.svg", language: "C++" },
   { icon: "python-svgrepo-com", language: "Python" },
