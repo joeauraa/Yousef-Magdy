@@ -152,11 +152,9 @@ const AboutPage = () => {
             </h2>
 
             <p className="text-base sm:text-lg lg:text-xl text-gray-400 leading-relaxed text-justify pb-4 sm:pb-0" data-aos="fade-right" data-aos-duration="1500">
-              Yousef Magdy – Web Developer, Robotics Specialist & Cyber Security Professional
-
-
 Yousef Magdy – Web Developer, Python Programmer, PCB Designer, Robotics Specialist & Cyber Security Professional
-With over 5 years of hands-on experience in programming, web development, and robotics, I have mastered HTML, CSS, Java, and Python to create innovative, high-performance, and user-friendly solutions. My expertise in Robotics, Python, and PCB design has driven the development of intelligent systems, automation projects, and custom electronic hardware. In Cyber Security, I implement advanced protection strategies to secure applications and infrastructures against modern threats. Passionate about technology, problem-solving, and continuous innovation, I thrive on building impactful projects that bridge creativity and technical excellence.
+
+With over 5 years of hands-on experience in programming, web development, and robotics, I have developed strong expertise in HTML, CSS, Java, and Python, creating innovative, high-performance, and user-friendly solutions. My background in robotics, Python programming, and PCB design has enabled me to develop intelligent systems, automation projects, and custom electronic hardware. In the field of Cyber Security, I implement advanced strategies to protect applications and infrastructures from modern threats. Driven by a passion for technology, problem-solving, and continuous innovation, I focus on building impactful projects that seamlessly combine creativity with technical excellence.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center gap-4 lg:gap-4">
