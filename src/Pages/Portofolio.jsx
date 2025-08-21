@@ -79,12 +79,12 @@ const techStacks = [
   { icon: "tailwind.svg", language: "Tailwind CSS" },
   { icon: "reactjs.svg", language: "ReactJS" },
   { icon: "nodejs.svg", language: "Node JS" },
-  { icon: "kalilinux-svgrepo-com.svg", language: "Cybersecurity" },
   { icon: "firebase.svg", language: "Firebase" },
   { icon: "isocpp-ar21.svg", language: "C++" },
-  { icon: "python-svgrepo-com", language: "Python" },
   { icon: "flutter-svgrepo-com", language: "Flutter" },
+  { icon: "python-svgrepo-com", language: "Python" },
   { icon: "sql-svgrepo-com.svg", language: "SQL" },
+  { icon: "kalilinux-svgrepo-com.svg", language: "cybersecurity" },
 ];
 
 export default function FullWidthTabs() {
