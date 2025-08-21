@@ -91,8 +91,8 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Frontend Developer", "Cyber Security Specialist " , " Python Programmer" , "PCB Designer , Robo Maker , 3D Designer "]
 const TECH_STACK = ["React", "JavaScript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/Yousefmagdy24" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/yash-verma-46b95b238" },
+  { icon: Github, link: "https://github.com/joeauraa" },
+  { icon: Linkedin, link: "https://www.linkedin." },
 ];
 
 const Home = () => {
