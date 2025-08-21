@@ -86,7 +86,7 @@ const AboutPage = () => {
   const { totalProjects, totalCertificates, YearExperience } = useMemo(() => {
     return {
       totalProjects: 56,
-      totalCertificates: 22,
+      totalCertificates: 32,
       YearExperience: 5,
     };
   }, []);
