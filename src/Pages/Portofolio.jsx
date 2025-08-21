@@ -81,7 +81,7 @@ const techStacks = [
   { icon: "nodejs.svg", language: "Node JS" },
   { icon: "firebase.svg", language: "Firebase" },
   { icon: "isocpp-ar21.svg", language: "C++" },
-  { icon: "flutter-svgrepo-com", language: "Flutter" },
+  { icon: "flutter-svgrepo-com.svg", language: "Flutter" },
   { icon: "python-svgrepo-com", language: "Python" },
   { icon: "sql-svgrepo-com.svg", language: "SQL" },
   { icon: "kalilinux-svgrepo-com.svg", language: "cybersecurity" },
