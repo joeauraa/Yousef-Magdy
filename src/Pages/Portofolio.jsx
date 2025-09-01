@@ -1,6 +1,5 @@
 import React, { useEffect, useState, useCallback } from "react";
 import { supabase } from "../supabase.js";
-
 import PropTypes from "prop-types";
 import SwipeableViews from "react-swipeable-views";
 import { useTheme } from "@mui/material/styles";
